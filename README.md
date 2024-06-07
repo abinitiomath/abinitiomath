@@ -1,6 +1,6 @@
 Author: abinitiomath
 <br>
-This is my first git repository
+Hi I'm abinitiomath, I've created some decks which I've made avaliable on GitHub.
 
 <!--
 **abinitiomath/abinitiomath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
